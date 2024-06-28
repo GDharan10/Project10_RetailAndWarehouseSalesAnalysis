@@ -20,22 +20,6 @@ To run the Jupyter notebook and reproduce the analysis, you will need the follow
 - matplotlib
 - seaborn
 
-### Installation
-1. Clone this repository to your local machine:
-    ```sh
-    git clone https://github.com/yourusername/retail-warehouse-sales-analysis.git
-    ```
-
-2. Navigate to the project directory:
-    ```sh
-    cd retail-warehouse-sales-analysis
-    ```
-
-3. Install the required Python packages:
-    ```sh
-    pip install pandas numpy matplotlib seaborn jupyter
-    ```
-
 ### Usage
 1. Unzip the `Warehouse_and_Retail_Sales.zip` file to access the raw data files.
 2. Open the Jupyter notebook:
