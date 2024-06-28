@@ -1,4 +1,4 @@
-# Retail and Warehouse Sales Data (Jan 2017 - Sep 2020)
+# Retail and Warehouse Sales Data Analysis (Jan 2017 - Sep 2020)
 
 ## Project Overview
 This project focuses on the detailed analysis of retail and warehouse sales data for alcoholic beverages from January 2017 to September 2020. The goal is to uncover sales patterns, supplier performance trends, and item type preferences to provide actionable insights for optimizing distribution strategies and enhancing sales effectiveness.
