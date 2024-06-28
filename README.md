@@ -13,10 +13,9 @@ This project focuses on the detailed analysis of retail and warehouse sales data
 
 ### Prerequisites
 To run the Jupyter notebook and reproduce the analysis, you will need the following software and packages installed:
-- Python 3.x
+- Python
 - Jupyter Notebook
 - pandas
-- numpy
 - matplotlib
 - seaborn
 
